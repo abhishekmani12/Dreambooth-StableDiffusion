@@ -1,3 +1,6 @@
+#!pip install -U autotrain-advanced
+#!autotrain setup
+
 def train(PROMPT, PATH, BATCH_SIZE, STEP_NUMBER):
 
   os.environ["prompt"] = PROMPT
