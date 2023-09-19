@@ -18,7 +18,7 @@ A fun experiment on finetuning Stable Diffusion models for text2img generation
 ### Generated Image:
 ![Generated-Image-1](https://github.com/abhishekmani12/Dreambooth-StableDiffusion/assets/76105443/fe043345-2486-4d54-932d-22d66fef2fc9)
 
-- Since the resolution was set to 512, the image is pixelated. Increasing the prameter values will result in better quality images but will overshoot the memory cap imposed on the free version of Colab.
+- Since the resolution was set to 512, the image is pixelated. Increasing the parameter values will result in better quality images but will overshoot the memory cap imposed on the free version of Colab.
 - You can even try using your own faces to generate new backgrounds or actions.
 
 
